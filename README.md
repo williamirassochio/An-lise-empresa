@@ -1,8 +1,8 @@
 # An-lise-empresa
 Analisar indicadores da empresa
- Projeto de Análise de Dados
+ Projeto de Analise de Dados
 
-Vamos fazer um projeto com pandas para análise de dados.
+Vamos fazer um projeto com pandas para analise de dados.
 
 O que temos?
 
