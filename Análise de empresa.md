@@ -1,4 +1,4 @@
- Projeto de Análise de Dados
+ Projeto de Analise de Dados
 
 Vamos fazer um projeto com pandas para análise de dados.
 
